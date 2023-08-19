@@ -9,16 +9,8 @@
 
 
     <url>
-        <loc>https://snoopy.hycbook.com/article/37395.html</loc>
-        <lastmod>2023-08-14T00:44:03.938Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://snoopy.hycbook.com/article/36242.html</loc>
-        <lastmod>2023-08-14T00:44:03.938Z</lastmod>
+        <lastmod>2023-08-19T10:57:22.080Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -26,7 +18,15 @@
 
     <url>
         <loc>https://snoopy.hycbook.com/article/11144.html</loc>
-        <lastmod>2023-08-14T00:44:03.938Z</lastmod>
+        <lastmod>2023-08-19T10:57:22.080Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://snoopy.hycbook.com/article/37395.html</loc>
+        <lastmod>2023-08-19T10:57:22.076Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -34,7 +34,7 @@
 
     <url>
         <loc>https://snoopy.hycbook.com/article/7389.html</loc>
-        <lastmod>2023-08-14T00:44:03.938Z</lastmod>
+        <lastmod>2023-08-19T10:57:22.076Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
